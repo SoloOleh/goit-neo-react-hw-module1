@@ -1,0 +1,31 @@
+.transactionTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 20px;
+  text-align: left;
+  background-color: #fff;
+  border: 3px solid black;
+  margin-left: 40px;
+}
+
+.transactionTable th {
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  border: 3px solid black;
+}
+
+.transactionTable td {
+  padding: 10px;
+  border: 3px solid black;
+}
+
+.evenRow {
+  background-color: #f9f9f9;
+}
+
+.oddRow {
+  background-color: #e0e0e0;
+}
